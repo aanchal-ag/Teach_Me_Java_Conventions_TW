@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PowerTester" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-21T11:52:54" hostname="LAPTOP-5CO4GH8S" time="0.024">
+  <properties/>
+  <testcase name="PowerOf_One_And_One()" classname="PowerTester" time="0.017"/>
+  <testcase name="PowerOf_One_And_Two()" classname="PowerTester" time="0.001"/>
+  <testcase name="PowerOf_Two_And_Two()" classname="PowerTester" time="0.001"/>
+  <testcase name="Power_Of_Three_And_Two()" classname="PowerTester" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
